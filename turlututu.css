@@ -34,6 +34,7 @@ ul li a {
 
  .title {
  	background-color: black;
+ 	color: white;
  	text-align: center;
 	float: left;
 
@@ -56,7 +57,44 @@ ul li a {
  }
 
  .title-01 {
+ 	font-size: 50px;
+ 	color: white;
  	font-family: monospace;
  	padding: 0;
  	margin: 0;
+ }
+
+ .title-02 {
+ 	font-size: 30px;
+ 	color: white;
+ 	font-family: monospace;
+ 	text-align: center;
+ 	padding: 0;
+ 	margin: 0;
+ }
+
+  .menu-04 {
+ 	background-color: white;
+  	width: 100%;
+ 	height: 75px;
+ }
+
+  .menu-03 {
+  	background-color: #5E90E8;
+ 	width: 100%;
+ 	height: 500px;
+ 	font-family: monospace;
+ 	font-size: 15px;
+ }
+
+ .title-03 {
+ 	background-position: center;
+ 	text-align: center;
+ 	font-family: monospace;
+ }
+
+ .p-01 {
+ 	background-position: center;
+ 	text-align: center;
+ 	font-family: monospace;
  }
